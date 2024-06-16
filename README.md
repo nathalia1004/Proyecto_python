@@ -1,5 +1,4 @@
-### Final Boss Python
-#### Proyecto Final con el tutor Santino Ursino
+# Proyecto Final Python
 #### Tipti
 ##### Nombre: Nathalia Estefanía Cóndor Flores
 ##### Correo: natis.nti@gmail.com
@@ -35,7 +34,7 @@ Este proyecto consiste en la carga, limpieza y análisis de datos de productos. 
 └── README.md
 
 
-##Explicación del Código
+## Explicación del Código
 -src/analysis/analysis.py
 Este archivo contiene funciones para cargar, limpiar y analizar los datos.
 
